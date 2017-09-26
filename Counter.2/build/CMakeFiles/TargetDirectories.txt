@@ -1,0 +1,7 @@
+/home/manu/Escritorio/ejemplos profesor/qtEjemplo1/Counter/build/CMakeFiles/install.dir
+/home/manu/Escritorio/ejemplos profesor/qtEjemplo1/Counter/build/CMakeFiles/list_install_components.dir
+/home/manu/Escritorio/ejemplos profesor/qtEjemplo1/Counter/build/CMakeFiles/rebuild_cache.dir
+/home/manu/Escritorio/ejemplos profesor/qtEjemplo1/Counter/build/CMakeFiles/ejemplo1.dir
+/home/manu/Escritorio/ejemplos profesor/qtEjemplo1/Counter/build/CMakeFiles/install/local.dir
+/home/manu/Escritorio/ejemplos profesor/qtEjemplo1/Counter/build/CMakeFiles/install/strip.dir
+/home/manu/Escritorio/ejemplos profesor/qtEjemplo1/Counter/build/CMakeFiles/edit_cache.dir
