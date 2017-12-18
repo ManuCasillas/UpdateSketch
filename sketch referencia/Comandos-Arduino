@@ -1,0 +1,2 @@
+Para copiar archivos del arduino root a Mac manu
+   scp root@192.168.240.1:/root/mosquito.sh .
